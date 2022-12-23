@@ -11,4 +11,4 @@ https://www.h-brs.de/de/fpga-vision-lab
 
 The FPGA Vision Remote Lab is Open Education.
 
-![alt text](https://github.com/Marco-Winzker/Spiking_NN_RGB_FPGA/blob/master/Spiking_NN_RGB_FPGA.jpg)
+![alt text](https://github.com/Marco-Winzker/Spiking_NN_RGB_FPGA/blob/main/Spiking_NN_RGB_FPGA.jpg)
